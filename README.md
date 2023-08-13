@@ -2,9 +2,9 @@
 ---
 ## AUTORES: ##
 
-Kelly Johana Castillo Beltran\\
-Andres Felipe Guerrero Guio\\
-Maryi Martinez Paredes\\
+Kelly Johana Castillo Beltran\n
+Andres Felipe Guerrero Guio\n
+Maryi Martinez Paredes\n
 
 ## ASESOR PRINCIPAL: Prof. Camilo Torres
 ---
