@@ -2,12 +2,12 @@
 ---
 ## AUTORES: ##
 
-Kelly Johana Castillo Beltran
-Andres Felipe Guerrero Guio
-Maryi Martinez Paredes
+Kelly Johana Castillo Beltran\\
+Andres Felipe Guerrero Guio\\
+Maryi Martinez Paredes\\
 
 ## ASESOR PRINCIPAL: Prof. Camilo Torres
---
+---
 
 ## INTRODUCCIÓN ##
 
